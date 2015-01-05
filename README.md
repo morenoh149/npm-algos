@@ -77,3 +77,4 @@
 ## Miscellaneous
 
 - [Computer Vision](https://www.npmjs.com/package/jsfeat)
+- [Functional Javascript](https://github.com/ramda/ramda)
