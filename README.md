@@ -15,7 +15,7 @@
 
 ## Data Structures
 
-...
+- [Trie](https://www.npmjs.com/package/trie-data-structure)
 
 
 ## Functional
