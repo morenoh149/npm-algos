@@ -1,4 +1,4 @@
-# Node.js Computer Science Modules
+# Node.js Algorithm Modules
 
 > Giant List of Node.js Modules Implementing Computer Science Concepts
 
