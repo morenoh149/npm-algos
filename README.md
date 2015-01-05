@@ -1,6 +1,6 @@
-# Node.js Algorithms
+# Node.js Computer Science
 
-> A Giant List of NPM Modules Implementing CS Algorithms
+> Giant List of NPM Modules Implementing Computer Science Concepts
 
 
 ## Data Structures
