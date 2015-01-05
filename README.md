@@ -19,6 +19,7 @@
 - [Tree](https://www.npmjs.com/package/ygg)
 - [Trie](https://www.npmjs.com/package/trie-data-structure)
 - [Quadtree](https://www.npmjs.com/package/simple-quadtree)
+- [Queue](https://www.npmjs.com/package/queue)
 
 
 ## Functional
