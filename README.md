@@ -1,6 +1,6 @@
-# Node.js Computer Science
+# Node.js Computer Science Modules
 
-> Giant List of NPM Modules Implementing Computer Science Concepts
+> Giant List of Node.js Modules Implementing Computer Science Concepts
 
 
 ## Combinatorics
