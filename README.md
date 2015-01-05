@@ -10,6 +10,7 @@
 
 ## Compression
 
+- [Zip](https://www.npmjs.com/package/jszip)
 - [LZ4](https://www.npmjs.com/package/lz4)
 - [Zopfli](https://www.npmjs.com/package/node-zopfli)
 
@@ -21,10 +22,13 @@
   - [SHA-1](https://www.npmjs.com/package/sha1)
   - [SHA-3](https://www.npmjs.com/package/sha3)
   - [bcrypt](https://www.npmjs.com/package/bcrypt)
+  - [ripemd160](https://www.npmjs.com/package/ripemd160)
 - Cipher
   - [Advanced Encryption Standard (AES)](https://www.npmjs.com/package/aes)
   - [Blowfish](https://www.npmjs.com/package/blowfish)
-
+  - [ChaCha20/Poly1305](https://www.npmjs.com/package/chacha)
+- [Diffie-Hellman](https://www.npmjs.com/package/diffie-hellman)
+- [Eliptical Curve](https://www.npmjs.com/package/elliptic)
 
 ## Data Structures
 
@@ -35,6 +39,8 @@
 - [Trie](https://www.npmjs.com/package/trie-data-structure)
 - [Quadtree](https://www.npmjs.com/package/simple-quadtree)
 - [Queue](https://www.npmjs.com/package/queue)
+- [R-Tree](https://github.com/mourner/rbush)
+- [Double Ended Queue](https://www.npmjs.com/package/double-ended-queue)
 
 
 ## Functional
