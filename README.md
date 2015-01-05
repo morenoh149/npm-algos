@@ -74,4 +74,4 @@
 
 ## Miscellaneous
 
-- [jsfeat](https://github.com/inspirit/jsfeat) Computer Vision library
+- [jsfeat - Computer Vision](https://www.npmjs.com/package/jsfeat)
