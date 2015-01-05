@@ -59,4 +59,4 @@
 
 ## Miscellaneous
 
-...
+- [jsfeat](https://github.com/inspirit/jsfeat) Computer Vision library
