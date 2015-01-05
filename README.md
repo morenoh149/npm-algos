@@ -5,12 +5,14 @@
 
 ## Combinatorics
 
-...
+- [Simple combinatorics](https://www.npmjs.com/package/js-combinatorics)
 
 
 ## Compression
 
-  - [Zip](https://www.npmjs.com/package/jszip)
+- [Zip](https://www.npmjs.com/package/jszip)
+- [LZ4](https://www.npmjs.com/package/lz4)
+- [Zopfli](https://www.npmjs.com/package/node-zopfli)
 
 
 ## Cryptography
@@ -43,6 +45,7 @@
 
 ## Functional
 
+- [Bilby](https://www.npmjs.com/package/bilby)
 - [Ramda](https://github.com/ramda/ramda)
 
 
@@ -68,7 +71,7 @@
 
 ## Shuffle
 
-[Fisher-Yates Shuffle](https://github.com/MoreOutput/fisherYates.js)
+- [Fisher-Yates Shuffle](https://github.com/MoreOutput/fisherYates.js)
 
 
 ## Sorting
@@ -83,3 +86,4 @@
 ## Miscellaneous
 
 - [Computer Vision](https://www.npmjs.com/package/jsfeat)
+- [Big Number Arithmetic](https://www.npmjs.com/package/number-crunch)
