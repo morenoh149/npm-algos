@@ -5,7 +5,7 @@
 
 ## Combinatorics
 
-...
+- [Simple combinatorics](https://www.npmjs.com/package/js-combinatorics)
 
 
 ## Compression
@@ -63,7 +63,7 @@
 
 ## Shuffle
 
-[Fisher-Yates Shuffle](https://github.com/MoreOutput/fisherYates.js)
+- [Fisher-Yates Shuffle](https://github.com/MoreOutput/fisherYates.js)
 
 
 ## Sorting
