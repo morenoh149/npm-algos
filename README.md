@@ -1,4 +1,3 @@
-node-algorithms
-===============
+# Node.js Algorithms
 
-list of node modules implementing cs algorithms
+> A Giant List of NPM Modules Implementing CS Algorithms
