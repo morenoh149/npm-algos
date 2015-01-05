@@ -17,6 +17,8 @@
 
 - Hash
   - [MD5](https://www.npmjs.com/package/md5-node)
+  - [SHA-1](https://www.npmjs.com/package/sha1)
+  - [SHA-3](https://www.npmjs.com/package/sha3)
   - [bcrypt](https://www.npmjs.com/package/bcrypt)
 - Cipher
   - [Advanced Encryption Standard (AES)](https://www.npmjs.com/package/aes)
