@@ -74,4 +74,4 @@
 
 ## Miscellaneous
 
-- [jsfeat - Computer Vision](https://www.npmjs.com/package/jsfeat)
+- [Computer Vision](https://www.npmjs.com/package/jsfeat)
