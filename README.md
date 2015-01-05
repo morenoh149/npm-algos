@@ -15,6 +15,7 @@
 
 ## Data Structures
 
+- [LinkedList](https://www.npmjs.com/package/linkedlist)
 - [Stack](https://www.npmjs.com/packages/stackjs)
 - [Tree](https://www.npmjs.com/package/ygg)
 - [Trie](https://www.npmjs.com/package/trie-data-structure)
