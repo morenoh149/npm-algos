@@ -2,5 +2,6 @@
 
 > A Giant List of NPM Modules Implementing CS Algorithms
 
-### Sort
+## Sort
 - [Bubble Sort](https://www.npmjs.com/package/bubblesort)
+- [Merge Sort](https://www.npmjs.com/package/mergesort)
