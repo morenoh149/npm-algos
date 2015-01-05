@@ -10,7 +10,8 @@
 
 ## Compression
 
-...
+- [LZ4](https://www.npmjs.com/package/lz4)
+- [Zopfli](https://www.npmjs.com/package/node-zopfli)
 
 
 ## Cryptography
