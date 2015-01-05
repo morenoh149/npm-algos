@@ -78,3 +78,4 @@
 ## Miscellaneous
 
 - [Computer Vision](https://www.npmjs.com/package/jsfeat)
+- [Big Number Arithmetic](https://www.npmjs.com/package/number-crunch)
