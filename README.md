@@ -37,7 +37,7 @@
 
 ## Functional
 
-...
+- [Ramda](https://github.com/ramda/ramda)
 
 
 ## Graphics
@@ -77,4 +77,3 @@
 ## Miscellaneous
 
 - [Computer Vision](https://www.npmjs.com/package/jsfeat)
-- [Functional Javascript](https://github.com/ramda/ramda)
