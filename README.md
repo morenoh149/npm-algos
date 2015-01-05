@@ -63,7 +63,7 @@
 
 ## Shuffle
 
-...
+[Fisher-Yates Shuffle](https://github.com/MoreOutput/fisherYates.js)
 
 
 ## Sorting
