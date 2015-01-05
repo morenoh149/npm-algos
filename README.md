@@ -38,8 +38,8 @@
 
 ## Functional
 
-- [Ramda](https://github.com/ramda/ramda)
 - [Bilby](https://www.npmjs.com/package/bilby)
+- [Ramda](https://github.com/ramda/ramda)
 
 
 ## Graphics
