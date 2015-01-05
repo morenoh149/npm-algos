@@ -13,6 +13,16 @@
 ...
 
 
+## Cryptography
+
+- Hash
+  - [MD5](https://www.npmjs.com/package/md5-node)
+  - [bcrypt](https://www.npmjs.com/package/bcrypt)
+- Cipher
+  - [Advanced Encryption Standard (AES)](https://www.npmjs.com/package/aes)
+  - [Blowfish](https://www.npmjs.com/package/blowfish)
+
+
 ## Data Structures
 
 - [LinkedList](https://www.npmjs.com/package/linkedlist)
