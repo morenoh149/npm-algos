@@ -32,6 +32,7 @@
 
 ## Data Structures
 
+- [Heap](https://www.npmjs.com/package/heap)
 - [Immutable Data Structures](https://github.com/facebook/immutable-js)
 - [LinkedList](https://www.npmjs.com/package/linkedlist)
 - [Stack](https://www.npmjs.com/packages/stackjs)
