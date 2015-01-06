@@ -37,7 +37,7 @@
 - [LinkedList](https://www.npmjs.com/package/linkedlist)
 - [Stack](https://www.npmjs.com/packages/stackjs)
 - [Tree](https://www.npmjs.com/package/ygg)
-- [Trie](https://www.npmjs.com/package/trie-data-structure)
+- [Trie](https:/s/www.npmjs.com/package/trie-data-structure)
 - [Quadtree](https://www.npmjs.com/package/simple-quadtree)
 - [Queue](https://www.npmjs.com/package/queue)
 - [R-Tree](https://github.com/mourner/rbush)
@@ -62,7 +62,7 @@
 
 ## Searching
 
-...
+- [Recursive Binary Search](https://www.npmjs.com/package/recursive-binarysearch)
 
 
 ## Sets
