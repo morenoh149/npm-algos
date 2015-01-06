@@ -48,7 +48,7 @@
 
 - [Bilby](https://www.npmjs.com/package/bilby)
 - [Ramda](https://github.com/ramda/ramda)
-
+- [wu](http://fitzgen.github.io/wu.js/)
 
 ## Graphics
 
