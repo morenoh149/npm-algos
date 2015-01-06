@@ -42,7 +42,7 @@
 - [Queue](https://www.npmjs.com/package/queue)
 - [R-Tree](https://github.com/mourner/rbush)
 - [Double Ended Queue](https://www.npmjs.com/package/double-ended-queue)
-
+- [Bloom filter](https://www.npmjs.com/package/bloomfilter)
 
 ## Functional
 
