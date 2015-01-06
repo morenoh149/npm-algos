@@ -1,6 +1,6 @@
 # Node.js Algorithm Modules
 
-> Giant List of Node.js Modules Implementing Computer Science Concepts
+> Curated List of Node.js Modules Implementing Computer Science Concepts
 
 
 ## Combinatorics
