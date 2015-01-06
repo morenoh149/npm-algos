@@ -67,8 +67,8 @@
 
 ## Sets
 
-...
-
+- ES6 Set
+- [Bit vectors](http://www.npmjs.com/package/bitmv)
 
 ## Shuffle
 
