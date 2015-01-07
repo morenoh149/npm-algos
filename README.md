@@ -53,11 +53,6 @@
 - [Underscore](https://github.com/jashkenas/underscore)
 
 
-## Graphs
-
-...
-
-
 ## Searching
 
 - [Recursive Binary Search](https://www.npmjs.com/package/recursive-binarysearch)
