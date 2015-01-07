@@ -52,10 +52,6 @@
 - [Bacon](http://github.com/baconjs/bacon.js/)
 - [Underscore](https://github.com/jashkenas/underscore)
 
-## Graphics
-
-...
-
 
 ## Graphs
 
