@@ -65,7 +65,7 @@
 
 ## Shuffle
 
-- [Fisher-Yates Shuffle](https://github.com/MoreOutput/fisherYates.js)
+- [Fisher-Yates Shuffle](https://www.npmjs.com/package/knuth-shuffle)
 
 
 ## Sorting
