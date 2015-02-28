@@ -82,7 +82,3 @@
 
 - [Computer Vision](https://www.npmjs.com/package/jsfeat)
 - [Big Number Arithmetic](https://www.npmjs.com/package/number-crunch)
-
-# Donations
-
-Donations are greatly appreciated and help me dedicate more time and energy into making cool, open-source software. To express your support, please take a moment to contribute. [![Fund me on Gittip](http://img.shields.io/gratipay/tejasmanohar.svg)](https://www.gratipay.com/tejasmanohar)
