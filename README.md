@@ -21,6 +21,7 @@
   - [MD5](https://www.npmjs.com/package/md5-node)
   - [SHA-1](https://www.npmjs.com/package/sha1)
   - [SHA-3](https://www.npmjs.com/package/sha3)
+  - [scrypt](https://www.npmjs.com/package/scrypt-for-humans)
   - [bcrypt](https://www.npmjs.com/package/bcrypt)
   - [ripemd160](https://www.npmjs.com/package/ripemd160)
 - Cipher
