@@ -51,7 +51,7 @@
 - [Ramda](https://github.com/ramda/ramda)
 - [wu](http://fitzgen.github.io/wu.js/)
 - [Bacon](http://github.com/baconjs/bacon.js/)
-- [Underscore](https://github.com/jashkenas/underscore)
+- [lodash](https://www.npmjs.com/package/lodash)
 
 
 ## Searching
