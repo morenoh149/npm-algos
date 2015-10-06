@@ -49,6 +49,7 @@
 
 - [Bilby](https://www.npmjs.com/package/bilby)
 - [Ramda](https://github.com/ramda/ramda)
+- [Highland](http://highlandjs.org/)
 - [wu](http://fitzgen.github.io/wu.js/)
 - [Bacon](http://github.com/baconjs/bacon.js/)
 - [lodash](https://www.npmjs.com/package/lodash)
